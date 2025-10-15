@@ -5,7 +5,7 @@
 
 
 <!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=Laxman-Bhatt08&label=Profile%20Views&color=007BFF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Laxman-Bhatt21&label=Profile%20Views&color=007BFF&style=flat)
 
 ---
 
@@ -37,8 +37,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Laxman Bhatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laxman-Bhatt08&show_icons=true&theme=tokyonight&custom_title=Laxman%20Bhatt's%20GitHub%20Stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman-Bhatt08&layout=compact&theme=tokyonight)
+![Laxman Bhatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laxman-Bhatt21&show_icons=true&theme=tokyonight&custom_title=Laxman%20Bhatt's%20GitHub%20Stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laxman-Bhatt21&layout=compact&theme=tokyonight)
 
 ---
 
