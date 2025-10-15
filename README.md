@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 # Hi, I'm Laxman Bhatt
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=007BFF&width=600&lines=Aspiring+Software+Developer;Tech+Learner;Code+Explorer;Future+Entrepreneur)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=007BFF&width=600&lines=Aspiring+Software+Developer;Tech+Learner;Code+Explorer)](https://git.io/typing-svg)
 
 
 <!-- Profile Views -->
